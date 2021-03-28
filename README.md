@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Handling Events in React : https://reactjs.org/docs/events.html#supported-events
+Lifecycle Methods : https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
+Lifecycle React Offical : https://reactjs.org/blog/2018/03/29/react-v-16-3.html#component-lifecycle-changes
+Fetching Data from an API : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch
+			  : https://swapi.co/
+			  : https://medium.com/javascript-scene/master-the-javascript-interview-what-is-apromise-27fc71e77261
+React Forms 		  : https://reactjs.org/docs/forms.html
+Form Exercise		  : https://coursework.vschool.io/travel-form/
+presention of component	  : https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+Official React Context API : https://reactjs.org/docs/context.html
+Error Boundaries  	  : https://reactjs.org/docs/error-boundaries.html
+render props		  : https://reactjs.org/docs/render-props.html
+Higher Order Components :   https://reactjs.org/docs/higher-order-components.html
+React Router 		  : https://reacttraining.com/react-router/core/guides/philosophy
+React Hooks 		  : https://reactjs.org/docs/hooks-intro.html
+React lazy, memo, and Suspense : https://reactjs.org/blog/2018/10/23/react-v-16-6.html
+
+Project Idea for Pratice
+https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d
+https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
+https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d
